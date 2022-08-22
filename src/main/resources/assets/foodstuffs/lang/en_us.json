@@ -1,0 +1,10 @@
+{
+  "item.foodstuffs.flesh": "Flesh",
+  "item.foodstuffs.cooked_flesh": "Cooked Flesh",
+  "item.foodstuffs.cooked_rotten_flesh": "Cooked Rotten Flesh",
+  "item.foodstuffs.baked_apple": "Baked Apple",
+  "block.foodstuffs.apple_pie": "Apple Pie",
+  "block.foodstuffs.pumpkin_pie": "Pumpkin Pie",
+  "block.minecraft.smoker": "Speed Cooker",
+  "block.foodstuffs.real_smoker": "Smoker"
+}

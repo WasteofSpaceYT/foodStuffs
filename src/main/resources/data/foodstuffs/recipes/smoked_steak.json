@@ -1,0 +1,12 @@
+{
+  "type": "foodstuffs:real_smoking",
+  "ingredients": [
+    {
+      "item": "minecraft:beef",
+      "wood": "forge:planks"
+    }
+  ],
+  "output": {
+    "item": "foodstuff:smoked_beef"
+  }
+}
